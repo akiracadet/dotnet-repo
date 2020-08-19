@@ -26,7 +26,7 @@ namespace HelloWorld.Controllers
         {
             var message = new Message{Id=0, Content="Message 1"};
 
-            return message;
+            return Ok(message);
         }
     }
 }
