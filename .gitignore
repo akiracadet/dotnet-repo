@@ -351,3 +351,6 @@ MigrationBackup/
 
 # vscode
 .vscode/
+
+# sandbox directory
+sandbox/
